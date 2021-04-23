@@ -5,10 +5,10 @@
 ### Files:
 
 gender_submission.csv: 
-  - Baseline based on gender. Accuracy: 0.76555
+  - Baseline based on gender. Public Score: 0.76555
 
 submission__GBC.csv:       
-  - Submission with GradientBoostClassifier model. Accuracy: 0.77511
+  - Submission with GradientBoostClassifier model. Public Score: 0.77511
 
 ML - Titanic.ipynb: 
   - Jupyter Notebook including the exploratory data analysis with visualizations, data cleaning, feature engineering and modeling.
